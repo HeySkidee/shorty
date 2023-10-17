@@ -1,3 +1,5 @@
 # this file will contain all url redirections
 
-/hot-sauce: https://open.spotify.com/track/0FO8DcO6l7NX6ZewMANrQh
+{
+  /hot-sauce: https://open.spotify.com/track/0FO8DcO6l7NX6ZewMANrQh
+}
